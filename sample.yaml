@@ -19,3 +19,4 @@ spec:
         ports:
         - containerPort: 80
 password: 
+password: "<ADD_YOUR_PWD_HERE>"
